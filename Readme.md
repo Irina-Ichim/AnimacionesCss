@@ -4,7 +4,8 @@ Este proyecto es una página web que muestra una animación de un cubo 3D girato
 
 ## Vista previa de la página
 
-[![Vista previa del proyecto](/Captura%20de%20pantalla%20(120).png)](/Animaciones%20Css%20-%20Google%20Chrome%202023-08-05%2001-02-49.mp4)
+[![Vista previa del proyecto](/Captura%20de%20pantalla%20(120).png)](/video.mp4)
+
 
 ## Características del proyecto
 
